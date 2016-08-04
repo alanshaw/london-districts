@@ -1,6 +1,6 @@
 {
   "name": "london-districts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A list of London districts from wikipedia",
   "main": "index.js",
   "scripts": {
